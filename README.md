@@ -1,13 +1,14 @@
 ### Hello, World!
-Sou <b>izaac xavier</b>, moro no Rio de janeiro e atualmente estou estudando desenvolvimento front-end pela Recode Pro.<br>
-- ✏️📚 entrando no mundo dos Devs!
+✨Sou <b>izaac xavier</b>, moro no Rio de janeiro e atualmente estou estudando desenvolvimento front-end pela Recode Pro.✨<br>
+> ✏️📚 entrando no mundo dos Devs!
 <hr>
 
 <h4><b>About me</b></h4>
 
-- 🔭 I’m currently working on front-end...
-- 🌱 I’m currently learning Html, css e javascript...
-- 😄 Pronouns: He/Him...
+> - 🔭 I’m currently working on front-end...
+> - 🌱 I’m currently learning Html, css e javascript...
+> - 😄 Pronouns: He/Him...
+> <hr>
 
 <div align="center" aling-itens: center>
   <a href="https://github.com/izaacxavier">
@@ -17,9 +18,9 @@ Sou <b>izaac xavier</b>, moro no Rio de janeiro e atualmente estou estudando des
 <br>
 <br>
 
-  <img align="center" alt="Izaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Izaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Izaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ > <img align="center" alt="Izaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ > <img align="center" alt="Izaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ > <img align="center" alt="Izaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
           
           
