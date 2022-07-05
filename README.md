@@ -1,6 +1,7 @@
 ### Hello, World!
 Sou <b>izaac xavier</b>, moro no Rio de janeiro e atualmente estou estudando desenvolvimento front-end pela Recode Pro.<br>
 - ✏️📚 entrando no mundo dos Devs!
+<hr>
 
 <h4><b>About me</b></h4>
 
