@@ -1,14 +1,9 @@
 ### Hello, World!
-✨Sou <b>izaac xavier</b>, moro no Rio de janeiro e atualmente estou estudando desenvolvimento front-end pela Recode Pro.✨<br>
-> ✏️📚 entrando no mundo dos Devs!
+<div align="center" ><b> ✨Me chamo izaac xavier✨</b><br>
+<br>
+📚Desenvolvedor front-end em andamento pela Recode Pro.<br>
+ <P align="center" >Entrando no mundo dos Devs!</p></div>
 <hr>
-
-<h4><b>About me</b></h4>
-
-> - 🔭 I’m currently working on front-end...
-> - 🌱 I’m currently learning Html, css e javascript...
-> - 😄 Pronouns: He/Him...
-> <hr>
 
 <div align="center" aling-itens: center>
   <a href="https://github.com/izaacxavier">
@@ -17,6 +12,12 @@
 </div>
 <br>
 <br>
+<h4><b>About me</b></h4>
+
+> - 🔭 I’m currently working on front-end...
+> - 🌱 I’m currently learning Html, css e javascript...
+> - 😄 Pronouns: He/Him...
+> <hr>
 
  > <img align="center" alt="Izaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  > <img align="center" alt="Izaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
