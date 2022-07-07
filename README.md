@@ -2,7 +2,7 @@
 <div align="center" ><b> ✨Me chamo izaac xavier✨</b><br>
 <br>
 📚Desenvolvedor front-end em andamento pela Recode Pro.<br>
- <P align="center" >Entrando no mundo dos Devs!</p></div>
+ <P align="center" ></p></div>
 <hr>
 
 <div align="center" aling-itens: center>
