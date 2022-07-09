@@ -1,8 +1,8 @@
-### Hello, World!
-<div align="center" ><b> ✨Me chamo izaac xavier✨</b><br>
+### ✨Hello, World, I'm Izaac Xavier✨
+
 <br>
-📚Desenvolvedor front-end em andamento pela Recode Pro.<br>
- <P align="center" ></p></div>
+
+ <P align="center" >📚Desenvolvedor front-end em andamento pela Recode Pro.<br></p></div>
 <hr>
 
 <div align="center" aling-itens: center>
