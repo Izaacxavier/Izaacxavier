@@ -2,7 +2,7 @@
 
 <br>
 
- <P align="center" >📚Desenvolvedor front-end em andamento pela Recode Pro.<br></p></div>
+ <P>📚Desenvolvedor Full-Stack em andamento pela Recode Pro.<br></p></div>
 <hr>
 
 <div align="center" aling-itens: center>
