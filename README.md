@@ -2,8 +2,10 @@
 
 <br>
 
- <P>📚Desenvolvedor Full-Stack em andamento pela Recode Pro.<br></p></div>
+ <P>📚Desenvolvedor FullStack em andamento pela Recode Pro.<br></p></div>
+
 <hr>
+
 
 <div align="center" aling-itens: center>
   <a href="https://github.com/izaacxavier">
@@ -12,19 +14,13 @@
 </div>
 <br>
 <br>
-<h4><b>About me</b></h4>
-
-> - 🔭 I’m currently working on front-end.
-> - 🌱 I’m currently learning Html, css and javascript.
-> - 😄 Pronouns: He/Him.
-> <hr>
-
- > <img align="center" alt="Izaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
+ 
+   > <img align="center" alt="Izaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  > <img align="center" alt="Izaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  > <img align="center" alt="Izaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
+ > <img align="center" alt="Izaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ >  <img align="center" alt="Izaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
  <div>
   <a href = "mailto:izaacxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
