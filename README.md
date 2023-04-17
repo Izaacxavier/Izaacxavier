@@ -1,10 +1,15 @@
-### Olá, eu sou o izaac 
+ # Hi, i'm Izaac Xavier!
 
-<br>
+ 🚀 Front-end Developer Jr & In Love With Coding
+ 
+📚 I'm currently studying React, JavaScript, HTML, CSS, SQL, Node.JS
 
- <P>📚Desenvolvedor FullStack em andamento pela Recode Pro.<br></p></div>
+📫 How to reach me: izaacxavier@gmail.com
 
-<hr>
+⚡ Fun fact  Big Hair😜
+
+👨‍💻 More at https://izaacxavier.github.io/Portifolio/
+
 
 
 <div align="center" aling-itens: center>
@@ -25,7 +30,7 @@
  <div>
   <a href = "mailto:izaacxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/izaacxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   <a href="https://medium.com/@izaacxavier" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  </div>
           
           
