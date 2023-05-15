@@ -6,8 +6,6 @@
 
 📫 How to reach me: izaacxavier@gmail.com
 
-⚡ Fun fact  Big Hair😜
-
 👨‍💻 More at https://izaacxavier.github.io/Portifolio/
 
 
